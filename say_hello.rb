@@ -7,5 +7,5 @@ def say_hello(name)
   puts name
 end
 
-
+hello_world
 say_hello("Joy")
