@@ -7,4 +7,4 @@ def say_hello(beef)
   puts beef
 end
 
-say_hello("humzah")
+say_hello(5)
