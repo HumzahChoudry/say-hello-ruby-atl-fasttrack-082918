@@ -3,4 +3,8 @@ def hello_world
   puts "hello world"
 end
 
-def say_hello()
+def say_hello(beef)
+  puts beef
+end
+
+say_hello("humzah")
