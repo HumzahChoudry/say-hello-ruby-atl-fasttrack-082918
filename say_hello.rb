@@ -6,6 +6,3 @@ end
 def say_hello(name)
   puts "Hello " + name + "!"
 end
-
-hello_world
-say_hello"Joy"
