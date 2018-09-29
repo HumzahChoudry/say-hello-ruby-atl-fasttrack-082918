@@ -3,7 +3,7 @@ def hello_world
   puts "hello world"
 end
 
-def say_hello(name="Humzah")
+def say_hello(name)
   puts name
 end
 
