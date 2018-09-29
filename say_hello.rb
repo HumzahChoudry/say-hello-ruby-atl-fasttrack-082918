@@ -11,4 +11,4 @@ def add_numbers(num1, num2)
   puts num1 + num2
 end
 
-add_numbers(3, 5)
+add_numbers(3, "ok")
