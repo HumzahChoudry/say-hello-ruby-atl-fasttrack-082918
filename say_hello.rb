@@ -3,8 +3,12 @@ def hello_world
   puts "hello world"
 end
 
-def say_hello(beef)
-  puts beef
+def say_hello(name)
+  puts name
 end
 
-say_hello(5)
+def add_numbers(num1, num2)
+  puts num1 + num2
+end
+
+add_numbers(3, 5)
