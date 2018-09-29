@@ -8,4 +8,4 @@ def say_hello(name="Humzah")
 end
 
 
-say_hello()
+hello_world
